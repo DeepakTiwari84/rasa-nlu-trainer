@@ -2,7 +2,7 @@
 This is a tool to edit your training examples for [rasa NLU](https://github.com/rasahq/rasa_nlu)
 
 
-Use the [online version](https://rasahq.github.io/rasa-nlu-trainer/) or [install with npm](#installation)
+Use the [online version](https://deepaktiwari84.github.io/rasa-nlu-trainer/) or [install with npm](#installation)
 
 ## installation
 
